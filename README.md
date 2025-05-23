@@ -30,24 +30,43 @@
   country, helping to identify key makets to focus on.   
  ![image](https://github.com/user-attachments/assets/c3fefd38-d412-4208-874f-3ddcd7947088)  
 
- ## Resource usage and profit dashboard  
+ ## Resource usage and profit dashboard 
+### Visualizations 
  Count by vehicle type & hotel name (Bar Chart):  
  This allow quick indentification of the most and least popular resources.  
  For instance, Van and SUVs are more frequently booked, while cars and Novotel Bangkok
  have fewer bookings.  
+
  This could prompt further analysis: Are the lowers booking due to higher price, lower 
  serivice quality, or other issues?  
+
  Room profit vs. vehicle profit(Pie Chart)  
  This chart compare the total profit generated from room and vehicle bookings.  
  Room booking contribute a significatly higher share of the total profit.  
  This insight can be used to adjust tesource allocation or marketing strategy.  
+
  Montly booking volume: Rooms vs. vehicle (Line Chart)  
  This line chart shows the monthly trend in room and vehicle bookings.  
   It helps identify growth trends or seasonal patterns.  
   Form March to May, there's clear upward trend in booking volume, suggesting increased demand.
- ![image](https://github.com/user-attachments/assets/42ebc025-27b9-4b3a-b2cf-e2e95a0d80d4)
+ ![image](https://github.com/user-attachments/assets/42ebc025-27b9-4b3a-b2cf-e2e95a0d80d4)  
 
+## Cancellation overview dashboard  
+### Key KPIs Displayed  
+Total Cancellation Value  
+Cancellation Rate  
+Total Cancellation Orders  
+### Visualizations 
+Total cancellation by month(Bar Chart):  
+This chart shows how the cancellation amount evolved month by month.  
 
+Canceled vehicle vs. room revenue(Pie Chart):  
+This visualization compares the revenue loss from cancellations across vehicle
+bookings and room bookings.  
+
+Canceled vs. overall average order value(Line Chart):  
+This chart compares the average value of canceled orders to the average value of all orders each month.  
+It reveals whether cancellations are affecting high-value orders, which could have a significant impact.  
  ![image](https://github.com/user-attachments/assets/206c201d-29c6-4bec-ae88-d3f9ae62b532)
 
 
