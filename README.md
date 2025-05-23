@@ -19,9 +19,15 @@
   Total Profit 
   Total Number of Order
   Total Cancellations 
- 
- 
-
+  These KPIs offer a snapshot of business performance and can be compared to previous
+  previous quarters or the same period last year for trend analysis. 
+  ### Visualizations 
+  Monthly revenue(Bar Chart): Show total revenue by month. Users can click on each month 
+  to each month to drill down into detailed KPIs.
+  Monthly order volume(pie chart):Displays the proportion of orders in each month to 
+  visualize booking distribution. 
+  Order distribution by country(Bar Chart): Highlights the number of bookings by customer
+  country, helping to identify key makets to focus on. 
  ![image](https://github.com/user-attachments/assets/c3fefd38-d412-4208-874f-3ddcd7947088)
 
  ![image](https://github.com/user-attachments/assets/42ebc025-27b9-4b3a-b2cf-e2e95a0d80d4)
