@@ -1,7 +1,7 @@
 # power-bi-projects
  Data analysis projects using Power BI tools
  The dataset was created manually and includes data from March, April and May 2025. 
- Data Structure 
+ # Data Structure 
  1. Order_table : 
     order_id, customer_id, Cost, Profit, Revenue, booking_state, order_month
  2. Vehicle bookings Table 
@@ -14,7 +14,7 @@
     customer_id, customer_name, country, rank_of_satisfaction, date
  
  The first dashboard provides an overview of sales and order performance for Q1 2025.
-  Key KPIs Displayed 
+  # Key KPIs Displayed 
   Total Revenue 
   Total Profit 
   Total Number of Order
