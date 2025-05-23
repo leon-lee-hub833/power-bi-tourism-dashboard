@@ -13,8 +13,8 @@
  4. Customer Info Table
     customer_id, customer_name, country, rank_of_satisfaction, date
  
- # The first dashboard provides an overview of sales and order performance for Q1 2025.
-  ## Key KPIs Displayed 
+ ## The first dashboard provides an overview of sales and order performance for Q1 2025.
+ ### Key KPIs Displayed 
   Total Revenue 
   Total Profit 
   Total Number of Order
